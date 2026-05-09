@@ -1,5 +1,5 @@
 # Image-Vault
-Image Vault v2.0
+Image Vault v2.0 <br>
 storage of high security images
 
 SC.html - [SC](https://katsugachi.github.io/Image-Vault/SC.html)
